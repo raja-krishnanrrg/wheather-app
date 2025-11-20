@@ -1,0 +1,35 @@
+ body{
+        background-color: rgb(28, 3, 41);
+        color: #fff;
+        font-family: Georgia, 
+    }
+.container{
+    margin-top: 12%;
+    height: auto;
+    width: auto;
+}
+.inputag{
+        border: none;
+}
+.btnalign{
+    border: 5px solid blueviolet;
+    width: 300px;
+    height: 40px;
+    border-radius: 13px;
+    padding: 5px;
+    padding-bottom: 10px;
+}
+.btnalign input{
+    margin-top: px;
+    height: 40px;
+    border-radius: 10px;
+}
+.btnalign button{
+    margin-top: 4px;
+    background-color: blue;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
